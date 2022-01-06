@@ -1,0 +1,37 @@
+[INFO ] 23:16:27.361 biz_frnt.BizFrntApplication - Starting BizFrntApplication using Java 12.0.2 on DESKTOP-5SE2KUT with PID 2212 (C:\Workspace\biz_frnt\target\classes started by HS in C:\Workspace\biz_frnt)
+[INFO ] 23:16:27.361 biz_frnt.BizFrntApplication - No active profile set, falling back to default profiles: default
+[INFO ] 23:16:27.408 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO ] 23:16:27.408 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO ] 23:16:27.984 o.s.cloud.context.scope.GenericScope - BeanFactory id=826e8ad5-6e1f-3731-adb2-7a040a9ebc2f
+[INFO ] 23:16:28.038 o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$c52a3f21] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ] 23:16:28.064 o.s.w.s.a.s.AnnotationActionEndpointMapping - Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+[INFO ] 23:16:28.376 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+[INFO ] 23:16:28.383 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+[INFO ] 23:16:28.383 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 23:16:28.383 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 23:16:28.467 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 23:16:28.467 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1059 ms
+[INFO ] 23:16:28.618 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 23:16:29.226 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+[INFO ] 23:16:29.237 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+[INFO ] 23:16:29.558 biz_frnt.BizFrntApplication - Started BizFrntApplication in 2.772 seconds (JVM running for 3.723)
+[INFO ] 23:17:14.689 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 23:17:14.690 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 23:17:14.690 o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+[INFO ] 23:18:43.867 biz_frnt.BizFrntApplication - Starting BizFrntApplication using Java 12.0.2 on DESKTOP-5SE2KUT with PID 7996 (C:\Workspace\biz_frnt\target\classes started by HS in C:\Workspace\biz_frnt)
+[INFO ] 23:18:43.867 biz_frnt.BizFrntApplication - No active profile set, falling back to default profiles: default
+[INFO ] 23:18:43.898 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO ] 23:18:43.898 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO ] 23:18:44.476 o.s.cloud.context.scope.GenericScope - BeanFactory id=826e8ad5-6e1f-3731-adb2-7a040a9ebc2f
+[INFO ] 23:18:44.538 o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$41d0fc4d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ] 23:18:44.554 o.s.w.s.a.s.AnnotationActionEndpointMapping - Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+[INFO ] 23:18:44.882 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+[INFO ] 23:18:44.882 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+[INFO ] 23:18:44.882 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 23:18:44.882 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 23:18:44.991 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 23:18:44.991 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1093 ms
+[INFO ] 23:18:45.116 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 23:18:45.710 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+[INFO ] 23:18:45.710 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+[INFO ] 23:18:46.038 biz_frnt.BizFrntApplication - Started BizFrntApplication in 2.791 seconds (JVM running for 3.902)

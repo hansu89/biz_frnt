@@ -1,0 +1,11 @@
+## 서버포트 설정
+server:
+  port: 8081
+
+## spring.devtools 정적리소스 파일을 서버 재기동 없이 로드
+spring:
+  freemarker:
+    cache: false
+  devtools:
+    livereload:
+      enabled: true
