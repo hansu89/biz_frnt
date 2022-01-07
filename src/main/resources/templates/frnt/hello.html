@@ -8,6 +8,7 @@
 <body>
     <h1>feign</h1>
     <button id="btn">클릭</button>
+    ${session.token}
 </body>
 
 <script>
@@ -15,7 +16,7 @@
         $.ajax({
             url:'/feignEx',
             type:'get',
-            data: '',
+            data: subject=123,
             success: function(data) {
                 alert(data.token);
             }
